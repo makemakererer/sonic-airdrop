@@ -2,6 +2,10 @@
 
 This bot is designed to automate gameplay in arcade games (Single Wheel, Plinko, Mines). It runs games with necessary tools and parameters. 
 
+## Telegram Channel
+
+If you want to be the first to know about new updates and have access to different scripts, you can join my Telegram channel: [Telegram](https://t.me/svitoch_blockchain)
+
 ## Features
 
 - Claiming tokens for playing games.
@@ -110,7 +114,6 @@ After configuring the necessary files, you can run the script as follows:
 
 If you like this project and want to support me, you can donate me a coffee ^_^:
 
-- ERC20: `0xA3C0b59715D5F212ED9102B5239Cc084014CDe02`
-- SOLANA: `EtuhWPuFFZEvytybMFt545JZ3R8tUMLuFsGjju6PNvGE`
+- ERC20: `0x2B2C6524084214BF0ce5CE7A52Bb330D044B1173`
 
 
