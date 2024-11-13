@@ -106,10 +106,6 @@ After configuring the necessary files, you can run the script as follows:
 - The bot is designed to run indefinitely until the user stops it or wallets is over.
 - The bot spends about 5 minutes on one account. It includes time for solving captchas, receiving tokens if needed, registering in the game, fetch errors and playing each game 10 times.
 
-## Questions
-
-- If you have any questions or issues, please contact me: - [Telegram](https://t.me/nahriniy)
-
 ## Support Me
 
 If you like this project and want to support me, you can donate me a coffee ^_^:
