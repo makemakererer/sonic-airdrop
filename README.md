@@ -30,7 +30,7 @@ If you want to be the first to know about new updates and have access to differe
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/makemakererer/sonic-farm.git
+    git clone https://github.com/makemakererer/sonic-airdrop.git
     ```
 
 2. Navigate to the project directory:
